@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Social Media
 - ⚡ Fun fact: I'm an Accountant
 -->
-Connect with me:
+### Connect with me:
 [LinkedIn](https://github.com/riandev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riandev&show_icons=true&theme=radical)
