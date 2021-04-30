@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming and web development
 - 📫 How to reach me: Social Media
 - ⚡ Fun fact: I'm an Accountant
--->
+
+
 ### Connect with me:
 [LinkedIn](https://github.com/riandev)
 
